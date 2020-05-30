@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocateMe</string>
+    <string name="start_location_updates">start location updates</string>
+    <string name="stop_location_updates">stop location updates</string>
+</resources>
