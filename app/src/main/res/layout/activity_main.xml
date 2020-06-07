@@ -14,10 +14,16 @@
     android:layout_height="wrap_content"
     android:text="@string/start_location_updates"/>
 
-    <Button
-        android:id="@+id/buttonStopLocationUpdates"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/stop_location_updates"/>
+<Button
+    android:id="@+id/buttonStopLocationUpdates"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/stop_location_updates"/>
+
+<Button
+    android:id="@+id/buttonFSTest"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="fire store test"/>
 
 </LinearLayout>
